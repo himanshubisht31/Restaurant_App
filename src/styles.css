@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.MainDiv {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+button{
+  margin: 3px;
+}
